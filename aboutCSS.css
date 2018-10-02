@@ -6,7 +6,7 @@ body.about {
 	border: 20px solid #bdc3c7;
 	font-family: 'Source Sans Pro', sans-serif;
 	padding: 20px;
-	box-shadow: inset 0 0 0 2000px rgba(255, 255, 255, 0.6);
+	box-shadow: inset 0 0 0 2000px rgba(255, 255, 255, 0.7);
 }
 
 body {
@@ -14,7 +14,9 @@ body {
 	font-family: 'Lato', sans-serif;
 }
 
-
+.navbar-font{
+	font-family: 'Lato', sans-serif;
+}
 div {
 	/*margin: top, right, bottom, left;*/
 	/*margin: top/bottom, left/right;*/

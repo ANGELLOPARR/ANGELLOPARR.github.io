@@ -2,7 +2,7 @@ body.index {
 	background: url(https://images.unsplash.com/photo-1538314267955-133e3dfb3021?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fc13d0c83c29ede9938b482021a8ae97&auto=format&fit=crop&w=2467&q=80);
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 1600px 1400px;
+	background-size: 1600px 1800px;
 }
 
 body.about {
@@ -10,6 +10,14 @@ body.about {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 1600px 1400px;
+}
+
+body.contact {
+	background: url(https://images.unsplash.com/photo-1538161342383-2ffacf4af0d4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=848609855f6cc64eeee5cc6c298cdc69&auto=format&fit=crop&w=2480&q=80);
+	background-position: center;
+	background-size: 1400px 1800px;
+	text-align: center;
+	padding-top: 15%;
 }
 
 body {
@@ -34,7 +42,7 @@ html {
 
 h1 {
 	font-weight: 700;
-	font-size: 5em;
+	font-size: 3em;
 }
 
 hr {
